@@ -14,6 +14,5 @@ A Front-End design project made for the Health Informatics Club
 * The site’s use of stacked tabs on smaller screens and thoughtfully organized sections ensures a smooth user experience across devices, catering to both desktop and mobile users.
 * A "Contact Us" form at the end of the site allows users to provide feedback, offering their name, email, and message for suggestions or improvements.
 # Mobile Device Functionalities
-* In order to make the website compatible with devices that have smaller screens (eg: A mobile phone), the tabs have been made to stack over each other, so that it's easier to navigate, instead of scrolling across the screen.
-* Another thing thats changed is the removal of the background gallery, change of color of the cards and the "Join Us" form on the home tab, which have been made white instead of transparent, so that the content 
-  appears clearer on smaller devices.
+* On smaller screens (e.g., mobile phones), tabs stack vertically to improve navigation without the need for horizontal scrolling.
+* For enhanced readability, the background gallery is removed, the colour of the cards and the "Join Us" form are changed to a solid white background, making content clearer on mobile devices.
