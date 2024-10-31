@@ -99,20 +99,8 @@
 <footer class="footer">
   <p>&copy; 2024 Health-O-Tech Club, VIT Bhopal University. All rights reserved.</p>
 </footer>
-
-<script>
-// Tab functionality
-document.querySelectorAll('.tab-button').forEach(button => {
-  button.addEventListener('click', () => {
-    document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
-    document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
     
-    button.classList.add('active');
-    document.getElementById(button.dataset.tab).classList.add('active');
-  });
-});
 
-// Background gallery functionality with fade effect
 const backgroundImages = document.querySelectorAll('.background-gallery img');
 let currentImageIndex = 0;
 
